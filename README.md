@@ -2,8 +2,13 @@
 
 [English](./README_en.md) | [中文](./README_zh.md)
 
-<img width="577" height="665" alt="屏幕截图 2026-04-13 033312" src="https://github.com/user-attachments/assets/2397a5a2-c977-4e3f-8244-5dfc946cda85" /> <img width="577" height="665" alt="屏幕截图 2026-04-13 033519" src="https://github.com/user-attachments/assets/172a0a2b-04fa-49ed-8b84-e8c7f7cd87b6" />
+## 注意事项
 
+本项目仅支持通过WSL部署astrbot&napcatQQ的图形化启动，如本地/Docker部署请等待后续支持（或许并不会支持，毕竟官方提供了更为完善的图形化启动器）。
+
+## 运行效果
+
+<img width="577" height="665" alt="屏幕截图 2026-04-13 033312" src="https://github.com/user-attachments/assets/2397a5a2-c977-4e3f-8244-5dfc946cda85" /><img width="577" height="665" alt="屏幕截图 2026-04-13 033519" src="https://github.com/user-attachments/assets/172a0a2b-04fa-49ed-8b84-e8c7f7cd87b6" />
 
 ---
 
