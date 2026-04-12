@@ -76,14 +76,10 @@ Click "Start AstrBot" on the main interface. Wait for services to start, then ac
 ```
 Astrbot-Launcher-WSL/
 ├── Astrbot-Launcher-WSL.py    # Main source code
-├── astrbot.ico                 # Application icon
 ├── LICENSE                    # MIT License
 ├── README.md                  # This file
 ├── README_en.md               # English version
 ├── README_zh.md               # Chinese version
-└── .github/
-    └── workflows/
-        └── build.yml          # CI/CD workflow
 ```
 
 ## 开发构建 | Development Build
