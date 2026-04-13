@@ -108,8 +108,8 @@ This project is open source under the [MIT License](./LICENSE).
 
 ## 致谢 | Credits
 
-- [AstrBot](https://github.com/SillyGods/AstrBot) - QQ 机器人框架
-- [NapCat](https://github.com/NapNeko/NapCat-QQBot) - QQ 协议客户端
+- [AstrBot](https://github.com/AstrBotDevs/AstrBot) - QQ 机器人框架
+- [NapCat](https://github.com/NapNeko/NapCatQQ) - QQ 协议客户端
 
 ---
 
