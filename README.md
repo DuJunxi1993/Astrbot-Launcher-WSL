@@ -9,6 +9,7 @@
 Astrbot-Launcher-WSL 是一款运行在 Windows 上的图形化管理工具，用于通过 WSL (Windows Subsystem for Linux) 启动和管理 AstrBot QQ 机器人服务。
 
 Astrbot-Launcher-WSL is a Windows GUI application designed to launch and manage the AstrBot QQ bot service running under WSL (Windows Subsystem for Linux).
+<img width="427" height="540" alt="屏幕截图 2026-04-18 151916" src="https://github.com/user-attachments/assets/095715c9-7129-4b3d-87f6-227f676bb3f6" />
 
 ## 功能特点 | Features
 
